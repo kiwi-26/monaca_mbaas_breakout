@@ -8,7 +8,7 @@ Monacaとニフティクラウド mobile backend(mBaaS)を組み合わせ、Mona
 
 チュートリアルは、以下のページにてご覧いただけます。
 
-http://mb.cloud.nifty.com/doc/current/tutorial/monaca_breakout.html
+[チュートリアル (JavaScript) : Monacaアプリのゲームにランキング機能をつける | ニフティクラウド mobile backend](http://mb.cloud.nifty.com/doc/current/tutorial/monaca_breakout.html)
 
 ## 使い方
 1. [ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)および[Monaca](https://ja.monaca.io/)に会員登録（無料）します。
